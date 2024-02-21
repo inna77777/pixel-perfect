@@ -15,25 +15,20 @@
   height: 615px;
   width: 100%;
 }
-/* .page {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-} */
 .content {
   width: 100%;
 }
-div p span {
+.h1 span,
+.h2 span {
   text-transform: uppercase;
 }
-.p1 {
+.h1 {
   margin: 100px 0 12px 50px;
   font-size: 14px;
   font-weight: 300;
   line-height: 16.41px;
 }
-.p2 {
+.h2 {
   text-align: right;
   margin: 0 51px 7px 0;
   line-height: 18.75px;
